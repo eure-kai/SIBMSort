@@ -1,2 +1,2 @@
 # SIBMSort
-Java program that compares sort algorithms, using an interface (July 2021)
+Java program that compares sort algorithms, using an interface
